@@ -1,4 +1,4 @@
-# covid_app
+## Covid-19
 
 A new Flutter application.
 
